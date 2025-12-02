@@ -1,5 +1,5 @@
 ---
-title: "DA5030 kNN"
+title: "kNN"
 author: "Daware, Aditya"
 date: "February 4, 2025"
 ---
